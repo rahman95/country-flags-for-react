@@ -21,9 +21,9 @@ yarn add country-flags-for-react
 ```js
 import { CountryFlag } from "country-flags-for-react";
 
-export const DeFlag = () => <CountryFlag code="DE" size={48} /> // 🇩🇪
+export const DeFlag = () => <CountryFlag code="de" size={48} /> // 🇩🇪
 
-export const GbFlag = () => <CountryFlag code="GB" size={48} /> // 🇬🇧
+export const GbFlag = () => <CountryFlag code="gb" size={48} /> // 🇬🇧
 ```
 
 ### Reference
