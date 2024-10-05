@@ -4,6 +4,8 @@
 [![npm minzipped size](https://img.shields.io/bundlephobia/minzip/country-flags-for-react.svg)](https://bundlephobia.com/result?p=country-flags-for-react)
 [![npm downloads](https://img.shields.io/npm/dm/country-flags-for-react.svg)](https://npmjs.com/country-flags-for-react)
 
+Inspired by [react-flag-kit](https://github.com/avocadowastaken/react-flag-kit) ✨
+
 ### Installation
 
 ```bash
