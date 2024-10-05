@@ -6,6 +6,8 @@
 
 Inspired by [react-flag-kit](https://github.com/avocadowastaken/react-flag-kit) ✨
 
+Flag assets from [country-flags](https://github.com/hampusborgos/country-flags) 🌎
+
 ### Installation
 
 ```bash
@@ -19,7 +21,9 @@ yarn add country-flags-for-react
 ```js
 import { CountryFlag } from "country-flags-for-react";
 
-export const USAFlag = () => <CountryFlag code="US" size={48} />;
+export const DeFlag = () => <CountryFlag code="DE" size={48} /> // 🇩🇪
+
+export const GbFlag = () => <CountryFlag code="GB" size={48} /> // 🇬🇧
 ```
 
 ### Reference
